@@ -4,7 +4,7 @@
 // ============================================================
 
 const MODEL = 'claude-sonnet-4-20250514'
-const API_URL = 'https://api.anthropic.com/v1/messages'
+const API_URL = '/api/analyze'
 
 /**
  * Build a prompt for the given transfer item type.
